@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_grave" format="2">
+  <advance width="300.0"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="-587.5" y="833.33333" type="line"/>
+      <point x="-587.5" y="722.95033"/>
+      <point x="-497.88300000000004" y="633.3333299999999"/>
+      <point x="-387.5" y="633.3333299999999" type="curve"/>
+      <point x="-387.5" y="833.33333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

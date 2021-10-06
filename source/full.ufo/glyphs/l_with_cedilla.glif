@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_with_cedilla" format="2">
+  <advance width="300.0"/>
+  <unicode hex="013C"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="195.0" type="line"/>
+      <point x="50.0" y="84.617"/>
+      <point x="139.61700000000002" y="-5.0"/>
+      <point x="250.0" y="-5.0" type="curve"/>
+      <point x="250.0" y="195.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="195.0" type="line"/>
+      <point x="250.0" y="195.0" type="line"/>
+      <point x="250.0" y="400.0" type="line"/>
+      <point x="50.0" y="400.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="400" type="line"/>
+      <point x="250.0" y="400" type="line"/>
+      <point x="250.0" y="600" type="line"/>
+      <point x="50.0" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="600" type="line"/>
+      <point x="250.0" y="600" type="line"/>
+      <point x="250.0" y="800" type="line"/>
+      <point x="50.0" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.5" y="-230.0" type="line"/>
+      <point x="337.5" y="-119.617"/>
+      <point x="247.883" y="-30.0"/>
+      <point x="137.5" y="-30.0" type="curve"/>
+      <point x="137.5" y="-230.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_dotabove" format="2">
+  <advance width="196.8"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="-193.4" y="704.44444" type="curve" smooth="yes"/>
+      <point x="-193.4" y="740.31892"/>
+      <point x="-222.52552" y="769.44444"/>
+      <point x="-258.40000000000003" y="769.44444" type="curve" smooth="yes"/>
+      <point x="-294.27448000000004" y="769.44444"/>
+      <point x="-323.40000000000003" y="740.31892"/>
+      <point x="-323.40000000000003" y="704.44444" type="curve" smooth="yes"/>
+      <point x="-323.40000000000003" y="668.56996"/>
+      <point x="-294.27448000000004" y="639.44444"/>
+      <point x="-258.40000000000003" y="639.44444" type="curve" smooth="yes"/>
+      <point x="-222.52552" y="639.44444"/>
+      <point x="-193.4" y="668.56996"/>
+    </contour>
+  </outline>
+</glyph>

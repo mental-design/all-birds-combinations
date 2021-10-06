@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kombi_I" format="2">
+  <advance width="300.0"/>
+  <unicode hex="E000"/>
+  <outline>
+    <contour>
+      <point x="255.0" y="100.0" type="curve" smooth="yes"/>
+      <point x="255.0" y="157.95108"/>
+      <point x="207.95108" y="205.0"/>
+      <point x="150.0" y="205.0" type="curve" smooth="yes"/>
+      <point x="92.04892000000001" y="205.0"/>
+      <point x="45.0" y="157.95108"/>
+      <point x="45.0" y="100.0" type="curve" smooth="yes"/>
+      <point x="45.0" y="42.04892"/>
+      <point x="92.04892000000001" y="-5.0"/>
+      <point x="150.0" y="-5.0" type="curve" smooth="yes"/>
+      <point x="207.95108" y="-5.0"/>
+      <point x="255.0" y="42.04892"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kombi_Vd" format="2">
+  <advance width="145.8"/>
+  <unicode hex="E016"/>
+  <outline>
+    <contour>
+      <point x="32.9" y="80.0" type="line"/>
+      <point x="32.9" y="35.8468"/>
+      <point x="68.74680000000001" y="0.0"/>
+      <point x="112.9" y="0.0" type="curve"/>
+      <point x="112.9" y="80.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="80.0" type="line"/>
+      <point x="112.9" y="80.0" type="line"/>
+      <point x="112.9" y="200.0" type="line"/>
+      <point x="32.9" y="200.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="200" type="line"/>
+      <point x="112.9" y="200" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="32.9" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="400" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="32.9" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.9" y="720.0" type="line"/>
+      <point x="112.9" y="764.1532"/>
+      <point x="77.0532" y="800.0"/>
+      <point x="32.9" y="800.0" type="curve"/>
+      <point x="32.9" y="720.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="600" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="112.9" y="720.0" type="line"/>
+      <point x="32.9" y="720.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

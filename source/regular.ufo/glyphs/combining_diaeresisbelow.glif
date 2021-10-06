@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_diaeresisbelow" format="2">
+  <advance width="501.55"/>
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="-269.52500000000003" y="-100.0" type="curve" smooth="yes"/>
+      <point x="-269.52500000000003" y="-47.568070000000006"/>
+      <point x="-312.09307" y="-5.0"/>
+      <point x="-364.52500000000003" y="-5.0" type="curve" smooth="yes"/>
+      <point x="-416.95693" y="-5.0"/>
+      <point x="-459.52500000000003" y="-47.568070000000006"/>
+      <point x="-459.52500000000003" y="-100.0" type="curve" smooth="yes"/>
+      <point x="-459.52500000000003" y="-152.43193"/>
+      <point x="-416.95693" y="-195.0"/>
+      <point x="-364.52500000000003" y="-195.0" type="curve" smooth="yes"/>
+      <point x="-312.09307" y="-195.0"/>
+      <point x="-269.52500000000003" y="-152.43193"/>
+    </contour>
+    <contour>
+      <point x="-42.025" y="-100.0" type="curve" smooth="yes"/>
+      <point x="-42.025" y="-47.568070000000006"/>
+      <point x="-84.59306999999998" y="-5.0"/>
+      <point x="-137.025" y="-5.0" type="curve" smooth="yes"/>
+      <point x="-189.45693" y="-5.0"/>
+      <point x="-232.025" y="-47.568070000000006"/>
+      <point x="-232.025" y="-100.0" type="curve" smooth="yes"/>
+      <point x="-232.025" y="-152.43193"/>
+      <point x="-189.45693" y="-195.0"/>
+      <point x="-137.025" y="-195.0" type="curve" smooth="yes"/>
+      <point x="-84.59306999999998" y="-195.0"/>
+      <point x="-42.025" y="-152.43193"/>
+    </contour>
+  </outline>
+</glyph>

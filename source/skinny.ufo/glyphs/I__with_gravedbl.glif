@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_gravedbl" format="2">
+  <advance width="145.8"/>
+  <unicode hex="0208"/>
+  <outline>
+    <contour>
+      <point x="32.9" y="0" type="line"/>
+      <point x="112.9" y="0" type="line"/>
+      <point x="112.9" y="200" type="line"/>
+      <point x="32.9" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="200" type="line"/>
+      <point x="112.9" y="200" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="32.9" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="400" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="32.9" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="600" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="112.9" y="800" type="line"/>
+      <point x="32.9" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24.599999999999994" y="930.0" type="line"/>
+      <point x="-24.599999999999994" y="885.8468"/>
+      <point x="11.246800000000007" y="850.0"/>
+      <point x="55.400000000000006" y="850.0" type="curve"/>
+      <point x="55.400000000000006" y="930.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.4" y="930.0" type="line"/>
+      <point x="90.4" y="885.8468"/>
+      <point x="126.24680000000001" y="850.0"/>
+      <point x="170.4" y="850.0" type="curve"/>
+      <point x="170.4" y="930.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

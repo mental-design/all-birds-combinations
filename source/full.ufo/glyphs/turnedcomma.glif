@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turnedcomma" format="2">
+  <advance width="300.0"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="250.0" y="800.0" type="line"/>
+      <point x="139.61700000000002" y="800.0"/>
+      <point x="50.0" y="710.383"/>
+      <point x="50.0" y="600.0" type="curve"/>
+      <point x="250.0" y="600.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

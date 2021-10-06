@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r_with_cedilla" format="2">
+  <advance width="308.75"/>
+  <unicode hex="0157"/>
+  <outline>
+    <contour>
+      <point x="35.625" y="0" type="line"/>
+      <point x="135.625" y="0" type="line"/>
+      <point x="135.625" y="200" type="line"/>
+      <point x="35.625" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="35.625" y="200" type="line"/>
+      <point x="135.625" y="200" type="line"/>
+      <point x="135.625" y="400" type="line"/>
+      <point x="35.625" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="35.625" y="400" type="line"/>
+      <point x="135.625" y="400" type="line"/>
+      <point x="135.625" y="600" type="line"/>
+      <point x="35.625" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="278.125" y="550.0" type="curve" smooth="yes"/>
+      <point x="278.125" y="580.35533"/>
+      <point x="253.48033" y="605.0"/>
+      <point x="223.125" y="605.0" type="curve" smooth="yes"/>
+      <point x="192.76967" y="605.0"/>
+      <point x="168.125" y="580.35533"/>
+      <point x="168.125" y="550.0" type="curve" smooth="yes"/>
+      <point x="168.125" y="519.64467"/>
+      <point x="192.76967" y="495.0"/>
+      <point x="223.125" y="495.0" type="curve" smooth="yes"/>
+      <point x="253.48033" y="495.0"/>
+      <point x="278.125" y="519.64467"/>
+    </contour>
+    <contour>
+      <point x="250.625" y="-125.0" type="line"/>
+      <point x="250.625" y="-69.80850000000001"/>
+      <point x="205.81650000000002" y="-25.0"/>
+      <point x="150.625" y="-25.0" type="curve"/>
+      <point x="150.625" y="-125.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

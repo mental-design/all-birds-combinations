@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <advance width="145.8"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="32.9" y="-100.0" type="line"/>
+      <point x="77.0532" y="-100.0"/>
+      <point x="112.9" y="-64.1532"/>
+      <point x="112.9" y="-20.0" type="curve"/>
+      <point x="32.9" y="-20.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="-20.0" type="line"/>
+      <point x="112.9" y="-20.0" type="line"/>
+      <point x="112.9" y="100.0" type="line"/>
+      <point x="32.9" y="100.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="100.0" type="line"/>
+      <point x="112.9" y="100.0" type="line"/>
+      <point x="112.9" y="300.0" type="line"/>
+      <point x="32.9" y="300.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="300.0" type="line"/>
+      <point x="112.9" y="300.0" type="line"/>
+      <point x="112.9" y="500.0" type="line"/>
+      <point x="32.9" y="500.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="500.0" type="line"/>
+      <point x="112.9" y="500.0" type="line"/>
+      <point x="112.9" y="700.0" type="line"/>
+      <point x="32.9" y="700.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.9" y="820.0" type="line"/>
+      <point x="112.9" y="864.1532"/>
+      <point x="77.0532" y="900.0"/>
+      <point x="32.9" y="900.0" type="curve"/>
+      <point x="32.9" y="820.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="700.0" type="line"/>
+      <point x="112.9" y="700.0" type="line"/>
+      <point x="112.9" y="820.0" type="line"/>
+      <point x="32.9" y="820.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

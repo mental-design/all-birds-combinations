@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_ring" format="2">
+  <advance width="260.8"/>
+  <unicode hex="030A"/>
+  <outline>
+    <contour>
+      <point x="-147.9" y="735.0" type="line"/>
+      <point x="-172.73618" y="735.0"/>
+      <point x="-192.9" y="714.83618"/>
+      <point x="-192.9" y="690.0" type="curve" smooth="yes"/>
+      <point x="-192.9" y="665.16382"/>
+      <point x="-172.73618" y="645.0"/>
+      <point x="-147.9" y="645.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-112.9" y="645.0" type="line"/>
+      <point x="-88.06381999999999" y="645.0"/>
+      <point x="-67.9" y="665.16382"/>
+      <point x="-67.9" y="690.0" type="curve" smooth="yes"/>
+      <point x="-67.9" y="714.83618"/>
+      <point x="-88.06381999999999" y="735.0"/>
+      <point x="-112.9" y="735.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

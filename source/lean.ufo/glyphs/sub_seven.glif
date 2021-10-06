@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_seven" format="2">
+  <advance width="404.95"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="41.225" y="260.0" type="line"/>
+      <point x="223.725" y="260.0" type="line"/>
+      <point x="223.725" y="400.0" type="line"/>
+      <point x="41.225" y="400.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.725" y="-200" type="line"/>
+      <point x="363.725" y="-200" type="line"/>
+      <point x="363.725" y="0" type="line"/>
+      <point x="223.725" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="363.725" y="245.0" type="line"/>
+      <point x="286.4569" y="245.0"/>
+      <point x="223.725" y="182.2681"/>
+      <point x="223.725" y="105.0" type="curve"/>
+      <point x="363.725" y="105.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.725" y="0" type="line"/>
+      <point x="363.725" y="0" type="line"/>
+      <point x="363.725" y="105.0" type="line"/>
+      <point x="223.725" y="105.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.725" y="260.0" type="line"/>
+      <point x="300.9931" y="260.0"/>
+      <point x="363.725" y="322.7319"/>
+      <point x="363.725" y="400.0" type="curve"/>
+      <point x="223.725" y="400.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

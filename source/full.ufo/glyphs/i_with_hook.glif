@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_with_hook" format="2">
+  <advance width="300.0"/>
+  <unicode hex="1EC9"/>
+  <outline>
+    <contour>
+      <point x="50.0" y="0" type="line"/>
+      <point x="250.0" y="0" type="line"/>
+      <point x="250.0" y="200" type="line"/>
+      <point x="50.0" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="200" type="line"/>
+      <point x="250.0" y="200" type="line"/>
+      <point x="250.0" y="400" type="line"/>
+      <point x="50.0" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="50.0" y="400" type="line"/>
+      <point x="250.0" y="400" type="line"/>
+      <point x="250.0" y="600" type="line"/>
+      <point x="50.0" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.5" y="633.3333333333334" type="line"/>
+      <point x="337.5" y="743.7163333333334"/>
+      <point x="247.883" y="833.3333333333334"/>
+      <point x="137.5" y="833.3333333333334" type="curve"/>
+      <point x="137.5" y="633.3333333333334" type="line"/>
+    </contour>
+  </outline>
+</glyph>

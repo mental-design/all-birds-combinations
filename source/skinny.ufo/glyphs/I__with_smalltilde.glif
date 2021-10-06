@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_smalltilde" format="2">
+  <advance width="145.8"/>
+  <unicode hex="0128"/>
+  <outline>
+    <contour>
+      <point x="32.9" y="0" type="line"/>
+      <point x="112.9" y="0" type="line"/>
+      <point x="112.9" y="200" type="line"/>
+      <point x="32.9" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="200" type="line"/>
+      <point x="112.9" y="200" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="32.9" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="400" type="line"/>
+      <point x="112.9" y="400" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="32.9" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="600" type="line"/>
+      <point x="112.9" y="600" type="line"/>
+      <point x="112.9" y="800" type="line"/>
+      <point x="32.9" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="72.9" y="930.0" type="line"/>
+      <point x="28.746800000000007" y="930.0"/>
+      <point x="-7.099999999999994" y="894.1532"/>
+      <point x="-7.099999999999994" y="850.0" type="curve"/>
+      <point x="72.9" y="850.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="72.9" y="850.0" type="line"/>
+      <point x="117.0532" y="850.0"/>
+      <point x="152.9" y="885.8468"/>
+      <point x="152.9" y="930.0" type="curve"/>
+      <point x="72.9" y="930.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

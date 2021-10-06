@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_hook" format="2">
+  <advance width="222.45"/>
+  <unicode hex="1EC8"/>
+  <outline>
+    <contour>
+      <point x="41.225" y="0" type="line"/>
+      <point x="181.225" y="0" type="line"/>
+      <point x="181.225" y="200" type="line"/>
+      <point x="41.225" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.225" y="200" type="line"/>
+      <point x="181.225" y="200" type="line"/>
+      <point x="181.225" y="400" type="line"/>
+      <point x="41.225" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.225" y="400" type="line"/>
+      <point x="181.225" y="400" type="line"/>
+      <point x="181.225" y="600" type="line"/>
+      <point x="41.225" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.225" y="600" type="line"/>
+      <point x="181.225" y="600" type="line"/>
+      <point x="181.225" y="800" type="line"/>
+      <point x="41.225" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.475" y="841.6666666666666" type="line"/>
+      <point x="242.475" y="918.9347666666666"/>
+      <point x="179.7431" y="981.6666666666666"/>
+      <point x="102.475" y="981.6666666666666" type="curve"/>
+      <point x="102.475" y="841.6666666666666" type="line"/>
+    </contour>
+  </outline>
+</glyph>
