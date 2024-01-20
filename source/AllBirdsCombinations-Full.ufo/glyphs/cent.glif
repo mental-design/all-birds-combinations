@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="150" y="600" type="line"/>
+      <point x="150" y="473.18878173828125" type="line"/>
+      <point x="90.23831851339921" y="438.6062188229984"/>
+      <point x="50.00000000000001" y="373.965109491"/>
+      <point x="50.00000000000002" y="300.0" type="curve"/>
+      <point x="50.0" y="226.03489050899998"/>
+      <point x="90.23831851339921" y="161.39378117700159"/>
+      <point x="150" y="126.80882263183594" type="curve"/>
+    </contour>
+    <contour>
+      <point x="300.0" y="540.0" type="line"/>
+      <point x="300.0" y="338.3251103447735"/>
+      <point x="428.2691554084996" y="300.0"/>
+      <point x="500.0" y="300.0" type="curve"/>
+      <point x="500" y="500" type="line"/>
+      <point x="400" y="500" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="300" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="400" y="100" type="line"/>
+      <point x="500" y="100" type="line"/>
+      <point x="500" y="300" type="line"/>
+      <point x="428.2691554084996" y="300.0"/>
+      <point x="300.0" y="261.6748896552265"/>
+      <point x="300.0" y="60.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

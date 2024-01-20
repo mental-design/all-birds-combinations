@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SIGMA" format="2">
+  <advance width="260.8"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="32.900001525878906" y="500.3941328311726" type="line"/>
+      <point x="32.90000152587891" y="416.3176629043205"/>
+      <point x="81.06238159211266" y="400.0"/>
+      <point x="112.9" y="400.0" type="curve"/>
+      <point x="112.9000015258789" y="800" type="line"/>
+      <point x="32.900001525878906" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.9" y="800.0" type="line"/>
+      <point x="147.9" y="755.8468"/>
+      <point x="183.7468" y="720.0"/>
+      <point x="227.9" y="720.0" type="curve"/>
+      <point x="227.9" y="800.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.900001525878906" y="0" type="line"/>
+      <point x="112.9000015258789" y="0" type="line"/>
+      <point x="112.9000015258789" y="400" type="line"/>
+      <point x="81.06238311799154" y="400.0"/>
+      <point x="32.89999969633895" y="383.6823363750521"/>
+      <point x="32.90000009724681" y="299.6058657434045" type="curve"/>
+    </contour>
+    <contour>
+      <point x="227.9" y="80.0" type="line"/>
+      <point x="183.7468" y="80.0"/>
+      <point x="147.9" y="44.1532"/>
+      <point x="147.9" y="0.0" type="curve"/>
+      <point x="227.9" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

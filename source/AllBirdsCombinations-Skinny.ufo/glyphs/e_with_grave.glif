@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e_with_grave" format="2">
+  <advance width="260.8"/>
+  <unicode hex="00E8"/>
+  <outline>
+    <contour>
+      <point x="55.400000000000006" y="730.0" type="line"/>
+      <point x="55.400000000000006" y="685.8468"/>
+      <point x="91.24680000000001" y="650.0"/>
+      <point x="135.4" y="650.0" type="curve"/>
+      <point x="135.4" y="730.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.90000145672562" y="95.39413283117261" type="line"/>
+      <point x="32.90000174181565" y="11.317662904320528"/>
+      <point x="81.06238159211266" y="-4.9999999999999964"/>
+      <point x="112.9" y="-5.0" type="curve"/>
+      <point x="112.9000015258789" y="605" type="line"/>
+      <point x="81.06238311799154" y="605.0"/>
+      <point x="32.89999978406326" y="588.6823363750522"/>
+      <point x="32.900000069153286" y="504.60586574340454" type="curve"/>
+    </contour>
+    <contour>
+      <point x="147.9000015258789" y="195" type="line"/>
+      <point x="227.9000015258789" y="195" type="line"/>
+      <point x="227.9000015258789" y="504.60586644819995" type="line"/>
+      <point x="227.9000015258789" y="588.682336375052"/>
+      <point x="179.73761840788734" y="605.0"/>
+      <point x="147.9" y="605.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

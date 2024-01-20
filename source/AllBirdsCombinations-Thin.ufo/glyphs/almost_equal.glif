@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="almost_equal" format="2">
+  <advance width="446.25"/>
+  <unicode hex="2248"/>
+  <outline>
+    <contour>
+      <point x="247.63233394124438" y="450.0" type="line"/>
+      <point x="353.9932022517258" y="450.0"/>
+      <point x="373.125" y="511.565258050988"/>
+      <point x="373.125" y="550.0" type="curve"/>
+      <point x="198.61766605875562" y="550.0" type="line"/>
+      <point x="92.25679774827422" y="550.0"/>
+      <point x="73.125" y="488.434741949012"/>
+      <point x="73.125" y="450.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="247.63233394124438" y="250.0" type="line"/>
+      <point x="353.9932022517258" y="250.0"/>
+      <point x="373.125" y="311.565258050988"/>
+      <point x="373.125" y="350.0" type="curve"/>
+      <point x="198.61766605875562" y="350.0" type="line"/>
+      <point x="92.25679774827422" y="350.0"/>
+      <point x="73.125" y="288.434741949012"/>
+      <point x="73.125" y="250.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

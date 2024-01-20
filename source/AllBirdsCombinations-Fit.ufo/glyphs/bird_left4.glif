@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bird_left4" format="2">
+  <advance width="658.2"/>
+  <unicode hex="13147"/>
+  <outline>
+    <contour>
+      <point x="204.1" y="700.0" type="line"/>
+      <point x="204.1" y="800.0" type="line"/>
+      <point x="117.49745999999999" y="750.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249.0999984741211" y="100" type="line"/>
+      <point x="287.3275008665408" y="100.0"/>
+      <point x="409.10000059486714" y="111.8561959020357"/>
+      <point x="409.0999998393812" y="300.0" type="curve"/>
+      <point x="409.09999863473996" y="600.0" type="line"/>
+      <point x="409.0999978792539" y="788.1438040979643"/>
+      <point x="287.3275023924197" y="800.0"/>
+      <point x="249.1" y="800.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="44.099998474121094" y="400" type="line"/>
+      <point x="204.0999984741211" y="400" type="line"/>
+      <point x="204.0999984741211" y="600" type="line"/>
+      <point x="155.78783011588956" y="600.0"/>
+      <point x="44.100005267253714" y="578.0778953449963"/>
+      <point x="44.09999866485595" y="405.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="454.0999984741211" y="400" type="line"/>
+      <point x="614.0999984741211" y="400" type="line"/>
+      <point x="614.0999984741211" y="405.0" type="line"/>
+      <point x="614.0999984741211" y="578.0778953449964"/>
+      <point x="502.41216835823155" y="600.0"/>
+      <point x="454.1" y="600.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

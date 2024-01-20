@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_with_smalltilde" format="2">
+  <advance width="550.0"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <contour>
+      <point x="235.0" y="633.3333353678386" type="line"/>
+      <point x="436.6748896552264" y="633.3333379322673"/>
+      <point x="475.0" y="761.602488741833"/>
+      <point x="475.0" y="833.3333333333334" type="curve"/>
+      <point x="315.0" y="833.3333353678386" type="line"/>
+      <point x="113.32511034477358" y="833.3333379322673"/>
+      <point x="75.0" y="705.0641779248338"/>
+      <point x="75.0" y="633.3333333333334" type="curve"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="250" y="600" type="line"/>
+      <point x="50" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500.0" y="360.0" type="line"/>
+      <point x="500.0" y="561.6748896552265"/>
+      <point x="371.7308445915004" y="600.0"/>
+      <point x="300.0" y="600.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

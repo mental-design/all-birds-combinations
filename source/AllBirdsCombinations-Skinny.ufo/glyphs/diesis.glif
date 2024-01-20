@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diesis" format="2">
+  <advance width="315.8"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="117.9000015258789" y="-100" type="line"/>
+      <point x="197.9000015258789" y="-100" type="line"/>
+      <point x="197.9000015258789" y="800" type="line"/>
+      <point x="117.9000015258789" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.9" y="520.0" type="line"/>
+      <point x="77.0532" y="520.0"/>
+      <point x="112.9" y="555.8468"/>
+      <point x="112.9" y="600.0" type="curve"/>
+      <point x="32.9" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="202.9" y="600.0" type="line"/>
+      <point x="202.9" y="555.8468"/>
+      <point x="238.7468" y="520.0"/>
+      <point x="282.9" y="520.0" type="curve"/>
+      <point x="282.9" y="600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.9" y="100.0" type="line"/>
+      <point x="112.9" y="144.1532"/>
+      <point x="77.0532" y="180.0"/>
+      <point x="32.9" y="180.0" type="curve"/>
+      <point x="32.9" y="100.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="282.9" y="180.0" type="line"/>
+      <point x="238.7468" y="180.0"/>
+      <point x="202.9" y="144.1532"/>
+      <point x="202.9" y="100.0" type="curve"/>
+      <point x="282.9" y="100.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

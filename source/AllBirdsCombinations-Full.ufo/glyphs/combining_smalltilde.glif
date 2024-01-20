@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_smalltilde" format="2">
+  <advance width="550.0"/>
+  <unicode hex="0303"/>
+  <outline>
+    <contour>
+      <point x="-315.0" y="633.3333285976562" type="line"/>
+      <point x="-113.32511034477355" y="633.3333268300468"/>
+      <point x="-75.0" y="761.6024854084997"/>
+      <point x="-75.0" y="833.33333" type="curve"/>
+      <point x="-235.0" y="833.3333285976563" type="line"/>
+      <point x="-436.6748896552265" y="833.3333268300468"/>
+      <point x="-475.0" y="705.0641745915003"/>
+      <point x="-475.0" y="633.3333299999999" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="500.0"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="210.0" y="100.0" type="line"/>
+      <point x="440.089527180051" y="100.0"/>
+      <point x="450.0" y="254.4794267876777"/>
+      <point x="450.0" y="340.0" type="curve"/>
+      <point x="450.0" y="460.0" type="line"/>
+      <point x="450.0" y="690.0895271800509"/>
+      <point x="295.5205732123223" y="700.0"/>
+      <point x="210.0" y="700.0" type="curve"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50.0" y="589.617"/>
+      <point x="139.617" y="500.0"/>
+      <point x="250.0" y="500.0" type="curve"/>
+      <point x="250" y="300" type="line"/>
+      <point x="139.617" y="300.0"/>
+      <point x="50.0" y="210.383"/>
+      <point x="50.0" y="100.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

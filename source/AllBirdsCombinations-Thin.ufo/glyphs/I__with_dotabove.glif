@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_dotabove" format="2">
+  <advance width="171.25"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="140.625" y="897.2222222222222" type="curve" smooth="yes"/>
+      <point x="140.625" y="927.5775522222222"/>
+      <point x="115.98033" y="952.2222222222222"/>
+      <point x="85.625" y="952.2222222222222" type="curve" smooth="yes"/>
+      <point x="55.269670000000005" y="952.2222222222222"/>
+      <point x="30.625" y="927.5775522222222"/>
+      <point x="30.625" y="897.2222222222222" type="curve" smooth="yes"/>
+      <point x="30.625" y="866.8668922222222"/>
+      <point x="55.269670000000005" y="842.2222222222222"/>
+      <point x="85.625" y="842.2222222222222" type="curve" smooth="yes"/>
+      <point x="115.98033" y="842.2222222222222"/>
+      <point x="140.625" y="866.8668922222222"/>
+    </contour>
+    <contour>
+      <point x="35.625" y="0" type="line"/>
+      <point x="135.625" y="0" type="line"/>
+      <point x="135.625" y="800" type="line"/>
+      <point x="35.625" y="800" type="line"/>
+    </contour>
+  </outline>
+</glyph>

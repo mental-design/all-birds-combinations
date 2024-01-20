@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_with_acute" format="2">
+  <advance width="260.8"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="125.4" y="850.0" type="line"/>
+      <point x="169.5532" y="850.0"/>
+      <point x="205.4" y="885.8468"/>
+      <point x="205.4" y="930.0" type="curve"/>
+      <point x="125.4" y="930.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.900001525878906" y="0" type="line"/>
+      <point x="112.9000015258789" y="0" type="line"/>
+      <point x="112.9000015258789" y="800" type="line"/>
+      <point x="32.900001525878906" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="227.9" y="80.0" type="line"/>
+      <point x="183.7468" y="80.0"/>
+      <point x="147.9" y="44.1532"/>
+      <point x="147.9" y="0.0" type="curve"/>
+      <point x="227.9" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

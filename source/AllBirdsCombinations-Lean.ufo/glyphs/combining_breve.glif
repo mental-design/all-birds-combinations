@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_breve" format="2">
+  <advance width="404.95"/>
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="-342.4749984741211" y="781.6666717529297" type="line"/>
+      <point x="-342.47499999999997" y="704.3985700000001"/>
+      <point x="-279.74309999999997" y="641.6666700000001"/>
+      <point x="-202.475" y="641.6666700000001" type="curve"/>
+      <point x="-125.20690000000002" y="641.6666700000001"/>
+      <point x="-62.475" y="704.3985700000001"/>
+      <point x="-62.475" y="781.66667" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

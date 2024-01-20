@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ETH" format="2">
+  <advance width="729.05"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="274.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="800" type="line"/>
+      <point x="274.5250015258789" y="800" type="line"/>
+      <point x="274.5250015258789" y="477.86995697021484" type="line"/>
+      <point x="207.2640808686072" y="451.7984252303344"/>
+      <point x="159.525" y="386.4302488768"/>
+      <point x="159.52500000000003" y="310.0" type="curve"/>
+      <point x="274.5250015258789" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="502.0250015258789" y="0" type="line"/>
+      <point x="555.4501358231959" y="0.0"/>
+      <point x="682.0249994577902" y="23.64925692570455"/>
+      <point x="682.0250001387162" y="220.0" type="curve"/>
+      <point x="682.0250013871627" y="580.0" type="line"/>
+      <point x="682.0250020680887" y="776.3507430742955"/>
+      <point x="555.450134297317" y="800.0"/>
+      <point x="502.025" y="800.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

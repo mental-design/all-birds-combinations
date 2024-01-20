@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kombi_Vc" format="2">
+  <advance width="222.45"/>
+  <unicode hex="E015"/>
+  <outline>
+    <contour>
+      <point x="41.22499859250851" y="175.68973318705338" type="line"/>
+      <point x="41.22499805137426" y="12.556370453098651"/>
+      <point x="144.51238403987105" y="4.4959987623897964e-15"/>
+      <point x="181.225" y="0.0" type="curve"/>
+      <point x="181.2249985925085" y="424.3102673349818" type="line"/>
+      <point x="181.22499805137426" y="587.4436300689365"/>
+      <point x="77.93761596012897" y="600.0"/>
+      <point x="41.225" y="600.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

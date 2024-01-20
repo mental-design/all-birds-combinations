@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R_with_gravedbl" format="2">
+  <advance width="260.8"/>
+  <unicode hex="0210"/>
+  <outline>
+    <contour>
+      <point x="32.900000000000006" y="930.0" type="line"/>
+      <point x="32.900000000000006" y="885.8468"/>
+      <point x="68.74680000000001" y="850.0"/>
+      <point x="112.9" y="850.0" type="curve"/>
+      <point x="112.9" y="930.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.9" y="930.0" type="line"/>
+      <point x="147.9" y="885.8468"/>
+      <point x="183.7468" y="850.0"/>
+      <point x="227.9" y="850.0" type="curve"/>
+      <point x="227.9" y="930.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="32.900001525878906" y="0" type="line"/>
+      <point x="112.9000015258789" y="0" type="line"/>
+      <point x="112.9000015258789" y="800" type="line"/>
+      <point x="32.900001525878906" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="147.9000015258789" y="200" type="line"/>
+      <point x="179.73761993376627" y="200.0"/>
+      <point x="227.89999977915562" y="216.31766221535685"/>
+      <point x="227.90000007072496" y="300.39413284700447" type="curve"/>
+      <point x="227.90000145515396" y="699.6058664482" type="line"/>
+      <point x="227.90000174672332" y="783.682336375052"/>
+      <point x="179.73761840788734" y="800.0"/>
+      <point x="147.9" y="800.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="147.9000015258789" y="0" type="line"/>
+      <point x="227.9000015258789" y="0" type="line"/>
+      <point x="227.9000015258789" y="99.60586644819995" type="line"/>
+      <point x="227.9000015258789" y="183.68233637505205"/>
+      <point x="179.73761840788734" y="200.0"/>
+      <point x="147.9" y="200.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

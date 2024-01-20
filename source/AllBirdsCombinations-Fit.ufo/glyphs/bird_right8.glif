@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bird_right8" format="2">
+  <advance width="658.2"/>
+  <unicode hex="1314B"/>
+  <outline>
+    <contour>
+      <point x="249.09999863473993" y="300.0" type="line"/>
+      <point x="249.09999787925398" y="111.8561959020357"/>
+      <point x="370.87249760758027" y="100.0"/>
+      <point x="409.1" y="100.0" type="curve"/>
+      <point x="409.0999984741211" y="800" type="line"/>
+      <point x="370.8724960817014" y="800.0"/>
+      <point x="249.10000059486708" y="788.1438040979643"/>
+      <point x="249.09999983938116" y="600.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="454.1" y="700.0" type="line"/>
+      <point x="540.70254" y="750.0" type="line"/>
+      <point x="454.1" y="800.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="454.0999984741211" y="400" type="line"/>
+      <point x="502.4121668323526" y="400.0"/>
+      <point x="614.1000052672538" y="421.9221046550038"/>
+      <point x="614.099998664856" y="595.0" type="curve"/>
+      <point x="614.0999984741211" y="600" type="line"/>
+      <point x="454.0999984741211" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

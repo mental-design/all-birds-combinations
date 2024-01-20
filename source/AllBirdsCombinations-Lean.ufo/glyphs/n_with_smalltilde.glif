@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_with_smalltilde" format="2">
+  <advance width="404.95"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <contour>
+      <point x="166.78526340761294" y="641.6666647718472" type="line"/>
+      <point x="329.91862614156764" y="641.6666618084929"/>
+      <point x="342.475" y="744.9540507065377"/>
+      <point x="342.475" y="781.6666666666666" type="curve"/>
+      <point x="238.1647307975977" y="781.6666647718472" type="line"/>
+      <point x="75.03136806364301" y="781.666661808493"/>
+      <point x="62.474999999999994" y="678.3792826267955"/>
+      <point x="62.474999999999994" y="641.6666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="41.224998474121094" y="0" type="line"/>
+      <point x="181.2249984741211" y="0" type="line"/>
+      <point x="181.2249984741211" y="600" type="line"/>
+      <point x="41.224998474121094" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="223.7249984741211" y="0" type="line"/>
+      <point x="363.7249984741211" y="0" type="line"/>
+      <point x="363.7249984741211" y="424.31026733498175" type="line"/>
+      <point x="363.7249984741211" y="587.4436300689365"/>
+      <point x="260.43761596012894" y="600.0"/>
+      <point x="223.725" y="600.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="not_equal" format="2">
+  <advance width="800.0"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="100" y="450" type="line"/>
+      <point x="700" y="450" type="line"/>
+      <point x="700" y="650" type="line"/>
+      <point x="573.1911773681641" y="650" type="line"/>
+      <point x="590.2386975909227" y="679.4015973690455"/>
+      <point x="600.0" y="713.569856978"/>
+      <point x="600.0" y="750.0000000000001" type="curve"/>
+      <point x="400" y="750" type="line"/>
+      <point x="400" y="650" type="line"/>
+      <point x="100" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="150" type="line"/>
+      <point x="226.80882263183594" y="150" type="line"/>
+      <point x="209.76130240907725" y="120.59840263095452"/>
+      <point x="200.0" y="86.43014302200001"/>
+      <point x="200.0" y="50.000000000000014" type="curve"/>
+      <point x="400" y="50" type="line"/>
+      <point x="400" y="150" type="line"/>
+      <point x="700" y="150" type="line"/>
+      <point x="700" y="350" type="line"/>
+      <point x="100" y="350" type="line"/>
+    </contour>
+  </outline>
+</glyph>

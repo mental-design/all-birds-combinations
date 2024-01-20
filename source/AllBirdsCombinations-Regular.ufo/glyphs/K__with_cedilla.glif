@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K_with_cedilla" format="2">
+  <advance width="501.55"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="47.025001525878906" y="0" type="line"/>
+      <point x="227.0250015258789" y="0" type="line"/>
+      <point x="227.0250015258789" y="800" type="line"/>
+      <point x="47.025001525878906" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="274.5250015258789" y="400" type="line"/>
+      <point x="327.9501358231959" y="400.0"/>
+      <point x="454.5249989155804" y="423.64925692570455"/>
+      <point x="454.5250002774325" y="620.0" type="curve"/>
+      <point x="454.5250015258789" y="800" type="line"/>
+      <point x="274.5250015258789" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="274.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="0" type="line"/>
+      <point x="454.5250015258789" y="180.0" type="line"/>
+      <point x="454.5250015258789" y="376.35074307429545"/>
+      <point x="327.950134297317" y="400.0"/>
+      <point x="274.525" y="400.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="419.525" y="-205.0" type="line"/>
+      <point x="419.525" y="-105.6553"/>
+      <point x="338.86969999999997" y="-25.0"/>
+      <point x="239.525" y="-25.0" type="curve"/>
+      <point x="239.525" y="-205.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
